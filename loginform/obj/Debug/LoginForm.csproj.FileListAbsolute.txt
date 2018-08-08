@@ -1,0 +1,52 @@
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\bin\Debug\Resources\Credentials_log.ldf
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\bin\Debug\Resources\Credentials.mdf
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\source\repos\loginFormFin\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\bin\Debug\Resources\Credentials_log.ldf
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\bin\Debug\Resources\Credentials.mdf
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\Dropbox\C# Lessons\Koen\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\bin\Debug\Resources\Credentials_log.ldf
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\bin\Debug\Resources\Credentials.mdf
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Koen Kleinstra\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\junix\Pictures\LoginForm\LoginForm\bin\Debug\Resources\Credentials_log.ldf
+C:\Users\junix\Pictures\LoginForm\LoginForm\bin\Debug\Resources\Credentials.mdf
+C:\Users\junix\Pictures\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\junix\Pictures\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\junix\Pictures\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\junix\Pictures\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
